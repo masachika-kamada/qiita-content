@@ -3,12 +3,12 @@ title: PythonパッケージをPyPIに公開するはじめの一歩
 tags:
   - Python
   - PyPI
-  - パッケージ
   - ライブラリ
+  - パッケージ
   - モジュール
 private: false
-updated_at: ''
-id: null
+updated_at: '2023-09-30T00:47:10+09:00'
+id: fb28ba414e1d9dc56a60
 organization_url_name: null
 slide: false
 ignorePublish: false
